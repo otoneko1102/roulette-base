@@ -13,5 +13,5 @@ console.log(result.roulette[1].number); // 1
 console.log(result.roulette[2].color); // "black"
 console.log(result.roulette[2].number); // 2
 console.log(result.roulette[Math.floor(Math.random() * 37)].color); // null or "red" or "black"
-console.log(result.roulette[Math.floor(Math.random() * 37)].number); // 0-37
+console.log(result.roulette[Math.floor(Math.random() * 37)].number); // 0-36
 ```
