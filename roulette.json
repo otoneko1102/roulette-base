@@ -1,5 +1,6 @@
 {
-  "roulette": [
+  "roulette": [    
+    { "color": null, "number": 0 },
     { "color": "red", "number": 1 },
     { "color": "black", "number": 2 },
     { "color": "red", "number": 3 },
@@ -35,7 +36,6 @@
     { "color": "black", "number": 33 },
     { "color": "red", "number": 34 },
     { "color": "black", "number": 35 },
-    { "color": "red", "number": 36 },
-    { "color": null, "number": 0 }
+    { "color": "red", "number": 36 }
   ]
 }
